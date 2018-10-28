@@ -1,5 +1,6 @@
 # Source Control Learning Session 
 We'll cover git basics and foundations. A true savior for the upcoming tasks!
+Git is great!!
 
 # Gett more info here
 - [Resources to learn Git](https://try.github.io/)
